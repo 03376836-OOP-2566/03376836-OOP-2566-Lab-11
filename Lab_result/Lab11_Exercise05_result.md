@@ -14,6 +14,6 @@
 
 โปรแกรมจะแสดงผล 
 
-Derived_2.A()
-Derived_2.A()
-Derived_2.A()
+- Derived_2.A()
+- Derived_2.A()
+- Derived_2.A()
