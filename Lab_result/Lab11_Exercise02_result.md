@@ -14,12 +14,15 @@
 
 โปรแกรมจะแสดงผล
 
-Calculated by method: public static long AddValues(int a, int b)
-5
-Calculated by method: public static long AddValues(int f, int g)  
-5
-Calculated by method: public static long AddValues(long h, long i)
-5
+- Calculated by method: public static long AddValues(int a, int b)
+
+  5
+- Calculated by method: public static long AddValues(int f, int g)  
+
+  5
+- Calculated by method: public static long AddValues(long h, long i)
+
+  5
 
 ## หลังแก้ไขโปรแกรม
 
