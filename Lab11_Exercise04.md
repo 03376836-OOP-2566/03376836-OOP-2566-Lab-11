@@ -8,6 +8,7 @@
 ```cmd
 dotnet new console --name Lab11_Ex04
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/722f9eb7-e8bd-481c-a5e7-ca5c02b45b43)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -42,6 +43,8 @@ class Derived_2 : Derived_1
     }
 }
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/dc334a86-a7ef-4004-8e67-f7ffb22c3a0a)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/f2cf93c8-a683-4b9e-bf14-a00dd316d140)
 
 3.Build project โดยการใช้คำสั่ง
 
@@ -52,6 +55,7 @@ dotnet build  Lab11_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/44eeae12-26b2-4f05-9ab2-b47f59197254)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -60,5 +64,6 @@ dotnet run --project Lab11_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/75352fa4-5230-4ad2-99a3-321b32bb75f4)
 
 7.อธิบายสิ่งที่พบในการทดลอง
