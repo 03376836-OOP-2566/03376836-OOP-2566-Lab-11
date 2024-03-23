@@ -43,7 +43,9 @@ class Derived_2 : Derived_1
     }
 }
 ```
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/b14ef031-97c4-4836-879b-3261c9e4137f)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/e3af9d0f-ee6d-4524-9b4e-5d22961003af)
 
 3.Build project โดยการใช้คำสั่ง
@@ -55,6 +57,7 @@ dotnet build  Lab11_Ex06
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/9cfac614-bd9d-4f51-ab73-4f496c4adbc2)
 
 5.Run project โดยการใช้คำสั่ง
@@ -64,6 +67,7 @@ dotnet run --project Lab11_Ex06
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/045fd4fe-7052-4e41-8828-3b381441c7d8)
 
 7.อธิบายสิ่งที่พบในการทดลอง
