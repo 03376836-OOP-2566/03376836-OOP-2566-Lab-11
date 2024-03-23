@@ -58,7 +58,8 @@ dotnet build  Lab11_Ex06
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/9cfac614-bd9d-4f51-ab73-4f496c4adbc2)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/72caa96b-9836-4a81-a623-298796a4525a)
+
 
 5.Run project โดยการใช้คำสั่ง
 
