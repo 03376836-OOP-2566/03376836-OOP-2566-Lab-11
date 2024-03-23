@@ -65,6 +65,13 @@ dotnet run --project Lab11_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/a4575d78-82f0-4f24-adde-c3c4c01574a6)
+
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/5b1c1efc-cad5-479c-9213-ef92ae4ed903)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/c8a0f286-20d7-4e98-bedf-df677fafc24d)
+
 
 7.อธิบายสิ่งที่พบในการทดลอง
