@@ -74,7 +74,7 @@ dotnet run --project Lab11_Ex02
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/3787322b-f83d-4291-ad4b-7954242701b2)
 
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/140d750b-5539-40f2-96e3-1966ab502b96)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/eb9921b9-c554-4a5c-a51e-1bc8f0d92453)
 
 
 7.อธิบายสิ่งที่พบในการทดลอง
