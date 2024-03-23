@@ -58,7 +58,7 @@ dotnet build  Lab11_Ex06
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/72caa96b-9836-4a81-a623-298796a4525a)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/1688d035-6e22-4a8d-a512-e0fe77d98ebd)
 
 
 5.Run project โดยการใช้คำสั่ง
@@ -69,6 +69,7 @@ dotnet run --project Lab11_Ex06
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/045fd4fe-7052-4e41-8828-3b381441c7d8)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/7f21ec86-b949-45af-8e9a-e2a991bf069a)
+
 
 7.อธิบายสิ่งที่พบในการทดลอง
