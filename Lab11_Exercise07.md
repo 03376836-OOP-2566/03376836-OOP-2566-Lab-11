@@ -65,6 +65,7 @@ dotnet run --project Lab11_Ex07
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-11/assets/144197034/56bf499c-dcbf-4a2d-bceb-5cd8ee7d935c)
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
