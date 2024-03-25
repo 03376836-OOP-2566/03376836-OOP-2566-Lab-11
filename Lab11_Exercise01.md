@@ -51,6 +51,8 @@ dotnet build  Lab11_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="653" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/4dbae804-5ea8-48e6-9d9b-ed9a77e0e0dc">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -59,4 +61,16 @@ dotnet run --project Lab11_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="665" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/6fce51ca-f647-46ca-879f-37b2bd34fa2f">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Calculated by method: public static long AddValues(int a, int b)
+5
+Calculated by method: public static long AddValues(int c, int d, int e)
+9
+Calculated by method: public static long AddValues(float f, float g)
+6
+Calculated by method: public static long AddValues(long h, long i)
+5
