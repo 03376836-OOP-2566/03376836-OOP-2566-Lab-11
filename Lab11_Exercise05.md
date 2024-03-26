@@ -54,6 +54,8 @@ dotnet build  Lab11_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="548" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/3ca78488-c30a-4805-8ccb-83020447767d">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -62,4 +64,11 @@ dotnet run --project Lab11_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="433" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/481f9ff8-6e03-45ab-abbb-283c41e1aecc">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Derived_2.A()
+Derived_2.A()
+Derived_2.A()
