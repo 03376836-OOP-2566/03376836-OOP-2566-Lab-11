@@ -52,6 +52,10 @@ dotnet build  Lab11_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+แก้ไขไม่ได้
+<img width="691" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/2d5651cc-47a7-4cc2-85fe-e51f80d94957">
+
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -60,4 +64,11 @@ dotnet run --project Lab11_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="690" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-11/assets/144195963/6778622e-2f89-4d6d-90b6-02485e1ccb07">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+หากโปรแกรมทำงานได้จะแสดงผล
+Derived_1.A()
+Derived_1.A()
+Derived_1.A()
