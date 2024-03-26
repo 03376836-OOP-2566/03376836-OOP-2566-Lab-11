@@ -54,7 +54,7 @@ dotnet build  Lab11_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![4](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/57c7d8d6-0110-442e-af7c-a83d82b6d1ce)
+![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/ff7ab9d2-9cde-499e-9cc7-2f83d05f4332)
 
 สามารถ Build ได้ เพราะคลาส Base เป็นคลาสหลัก และมีคลาส Derived_1 และ Derived_2 ที่สืบทอดมาจาก Base โดยมีการโอเวอร์ไรด์ (override) เมทอด A() ของ Base ใน Derived_1 และ Derived_2
 
@@ -66,7 +66,7 @@ dotnet run --project Lab11_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![4 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/3419ca79-7536-4bf4-83a2-c034b2202708)
+![5 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/4c333f1a-3b3b-437e-8888-af22d94a0dad)
 
 7.อธิบายสิ่งที่พบในการทดลอง
 
