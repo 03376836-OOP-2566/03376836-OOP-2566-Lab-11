@@ -52,6 +52,10 @@ dotnet build  Lab11_Ex07
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![7](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/99b7d542-0ff7-4e8b-be71-9c0057eb6db9)
+
+ไม่สามารถ Build ได้ เพราะ Derived_2.A พยายามจะสืบทอดจาก Derived_1 แต่ถูกปิดกั้นด้วยคำสั่ง sealed แก้โดยลบส่วนการทำงานของclass Derived_2 : Derived_1 ออก
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -60,4 +64,16 @@ dotnet run --project Lab11_Ex07
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![7 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/0337d6c5-4e46-4470-a5df-dda52be8cd72)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ Derived_2.A พยายามจะสืบทอดจาก Derived_1 แต่ถูกปิดกั้นด้วยคำสั่ง sealed แก้โดยลบส่วนการทำงานของclass Derived_2 : Derived_1 ออก
+
+โปรแกรมจะแสดงผล
+
+Derived_1.A()
+
+Derived_1.A()
+
+Derived_1.A()

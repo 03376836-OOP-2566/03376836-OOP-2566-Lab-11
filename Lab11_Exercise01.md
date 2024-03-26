@@ -51,6 +51,10 @@ dotnet build  Lab11_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/f5ddc228-7ed4-4ad9-8bf1-0c5e1227366a)
+
+สามารถ Build ได้ เพราะ เป็นการใช้ Method overloading จาก Class Calculator Method ก็คือ AddValues การกำหนดเมธอดหลายเมธอดที่มีชื่อเดียวกัน แต่มีรายการพารามิเตอร์ที่แตกต่างกันภายในคลาสเดียวกัน
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -59,4 +63,18 @@ dotnet run --project Lab11_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/99e06c22-3331-4c47-ae0a-133a12cb0bea)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ เป็นการเรียกใช้งาน Method AddValues มาแสดง จาก Class Calculator
+
+โปรแกรมจะแสดงผล
+Calculated by method: public static long AddValues(int a, int b)
+5
+Calculated by method: public static long AddValues(int c, int d, int e)
+9
+Calculated by method: public static long AddValues(float f, float g)
+6
+Calculated by method: public static long AddValues(long h, long i)
+5

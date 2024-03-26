@@ -50,6 +50,10 @@ dotnet build  Lab11_Ex02
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![2](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/bd2a201a-59a3-440a-85b5-fdd1741524bc)
+
+ไม่สามารถ Build ได้ เพราะ คลาสหรือโครงสร้างที่กำหนดไว้ได้มีการประกาศเมทอดที่มีลำดับพารามิเตอร์ที่เหมือนกันซ้ำในระดับความสำคัญเดียวกันอยู่แล้ว แก้ไขจากลบคลาสหรือโครงสร้างที่ซ้ำ
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -58,4 +62,16 @@ dotnet run --project Lab11_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![2 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-11/assets/144195995/f8b3c247-6cba-4ab0-89ad-e9a3823528d4)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ คลาสหรือโครงสร้างที่กำหนดไว้ได้มีการประกาศเมทอดที่มีลำดับพารามิเตอร์ที่เหมือนกันซ้ำในระดับความสำคัญเดียวกันอยู่แล้ว แก้ไขจากลบคลาสหรือโครงสร้างที่ซ้ำ
+
+โปรแกรมจะแสดงผล
+Calculated by method: public static long AddValues(int a, int b)
+5
+Calculated by method: public static long AddValues(int f, int g)
+5
+Calculated by method: public static long AddValues(long h, long i)
+5
