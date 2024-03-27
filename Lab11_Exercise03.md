@@ -63,6 +63,7 @@ dotnet build  Lab11_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-11/assets/144195708/86bdf7e7-dedb-4d15-83af-14a317309caa)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -71,5 +72,20 @@ dotnet run --project Lab11_Ex03
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-11/assets/144195708/93fb86e5-c29d-4614-b70d-8b86ffd48a18)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรเเกรมแสดงผล
+
+Dog: Running on the ground.
+
+Move successfully.
+
+Fish: Swimming in the water.
+
+Move successfully.
+
+Bird: Flying in the air.
+
+Move successfully.
