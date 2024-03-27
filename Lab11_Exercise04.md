@@ -52,6 +52,7 @@ dotnet build  Lab11_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-11/assets/144195708/bf3cb0ff-93f8-424a-9445-babf01d5a9b2)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -60,5 +61,14 @@ dotnet run --project Lab11_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-11/assets/144195708/dfe40f3e-a9f8-4795-897e-161abf1f6570)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมเเสดงผล
+
+Base.A()
+
+Derived_1.A()
+
+Derived_2.A()
