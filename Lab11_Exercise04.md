@@ -52,6 +52,7 @@ dotnet build  Lab11_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-11/assets/144195611/55aaaedc-8ffe-48f7-85bc-dba7f21b8fa9)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -60,5 +61,10 @@ dotnet run --project Lab11_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-11/assets/144195611/f6eb5ab9-5f50-4a21-954e-492349cff353)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+- -ใช้งาน Virtual Member Inheritance 
+- เมื่อเรียกใช้ b.A() จะแสดงผลเป็น "Base.A()" เนื่องจากเป็นเมทอด A() ในคลาส Base และไม่มีการ override ในคลาสลูก
+- เมื่อเรียกใช้ d1.A() จะแสดงผลเป็น "Derived_1.A()" เนื่องจาก d1 เป็นอ็อบเจกต์ของคลาส Derived_1 ซึ่ง override เมทอด A() ของ Base
+- เมื่อเรียกใช้ d2.A() จะแสดงผลเป็น "Derived_2.A()" เนื่องจาก d2 เป็นอ็อบเจกต์ของคลาส Derived_2 ซึ่ง override เมทอด A() ของ Derived_1
